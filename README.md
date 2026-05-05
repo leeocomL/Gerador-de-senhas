@@ -15,7 +15,7 @@ Se você já tem o Python instalado:
 
     Clone o repo: git clone https://github.com/leeocomL/Gerador-de-senhas.git.
 
-    Entre na pasta e execute: python gerador.py.
+    Entre na pasta e execute: python main.py.
 
 Sobre a segurança:
 
